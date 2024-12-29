@@ -47,7 +47,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFL
 - **Universidade Federal de Lavras (UFLA)**, Ciência da Computação
   - 📅 *Início:* 2021/2
   - 🎓 *Previsão de Formatura:* Julho de 2025
-  - 🎯 *Atualmente no 6º período*
+  - 🎯 *Atualmente no 7º período*
 
 ---
 
