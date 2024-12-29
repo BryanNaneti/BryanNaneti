@@ -7,7 +7,7 @@
 
 ### 🎓 Sobre Mim
 
-Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA). Comecei meu curso em 2021/2 e estou no 6º período, com previsão de formatura para julho de 2025. Durante minha jornada acadêmica, desenvolvi um sólido entendimento de várias linguagens de programação, bancos de dados, e frameworks.
+Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA). Comecei meu curso em 2021/2 e estou no 7º período, com previsão de formatura para julho de 2025. Durante minha jornada acadêmica, desenvolvi um sólido entendimento de várias linguagens de programação, bancos de dados, e frameworks.
 
 ---
 
