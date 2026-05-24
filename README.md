@@ -16,19 +16,22 @@ Bacharel em Ciência da Computação pela **Universidade Federal de Lavras (UFLA
 ### Stack
 
 **Front-end:** React · Next.js · TypeScript · JavaScript · HTML · CSS
-**Back-end:** Node.js · PHP · Laravel
+**Back-end:** Node.js · PHP · Laravel · REST APIs
 **Banco de dados:** PostgreSQL · MySQL
-**Ferramentas:** Git · GitHub · REST APIs
+
+**Versionamento & Containers:**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
+Uso diário de Git em fluxos com branches, merge requests, code review e resolução de conflitos. Docker para padronizar ambientes de desenvolvimento e empacotar serviços.
 
 ### Experiência relevante
 
 - **Desenvolvimento Full Stack** em projetos corporativos — APIs RESTful, módulos administrativos, fluxos de permissão e notificação, regras de negócio e melhorias de UX.
 - **Iniciação Científica em Machine Learning (UFLA)** — comparação de métodos de classificação supervisionada aplicados à detecção de fraudes financeiras, usando Python para análise, preparação de dados, treinamento e avaliação de modelos.
 - **Diretor de Esportes — Atlética Imperial (UFLA)** — liderança, organização e gestão de equipes em ambiente universitário.
-
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BryanNaneti&show_icons=true&hide=stars,issues&hide_border=true&include_all_commits=true)
 
 ### Contato
 
